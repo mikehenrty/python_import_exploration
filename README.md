@@ -1,5 +1,7 @@
 # Python Import Exmplation
 
+This is to help me understand order of import precedence.
+
 ## Running Test
 ```bash
 python go.py
